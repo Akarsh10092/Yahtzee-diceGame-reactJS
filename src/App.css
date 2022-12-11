@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.App-title {
+  margin-top: 16rem;
+  color: white;
+  margin-bottom: 0;
+  font-weight: 80;
+  display: inline-block;
+  font-size: 5rem;
+  width: 50%;
+}
